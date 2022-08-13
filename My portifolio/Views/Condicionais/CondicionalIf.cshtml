@@ -1,0 +1,55 @@
+@model Partida
+@{
+    ViewData["Title"] = "CondicionalIf";
+}
+
+<section class="bg-dark text-white text-center py-3">
+    <div class="container d-flex align-items-center flex-column">
+        <h1 class="text-uppercase mb-3">Operadores Matemáticos</h1>
+        <p class="font-weight-light fs-2">Prestação com Juros</p>
+    </div>
+</section>
+
+<div class="container mt-4">
+    <div class="row justify-content-md-center">
+        <form method="post" class="col-lg-8 col-md-12">
+            <p class="mb-4">
+                Criar um formulário para ler o nome de 2 times e o número de gols marcados na partida 
+                (para cada time). Escrever o nome do vencedor. Caso não haja vencedor deverá ser 
+                impressa a palavra 'EMPATE'.
+            </p>
+            <div class="col-12 py-3">
+                <p class="fs-1 text-center bg-dark text-white">@(Model != null ? Model.Resultado : "")</p>
+            </div>
+            <div class="row mb-4">
+                <div class="col">
+                    <label asp-for="Time1" class="form-label"></label>
+                    <input asp-for="Time1" class="form-control">
+                    <span asp-validation-for="Time1" class="text-danger"></span>
+                </div>
+                <div class="col">
+                    <label asp-for="GolsTime1" class="form-label"></label>
+                    <input asp-for="GolsTime1" class="form-control">
+                    <span asp-validation-for="GolsTime1" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="row mb-4">
+                <div class="col">
+                    <label asp-for="Time2" class="form-label"></label>
+                    <input asp-for="Time2" class="form-control">
+                    <span asp-validation-for="Time2" class="text-danger"></span>
+                </div>
+                <div class="col">
+                    <label asp-for="GolsTime2" class="form-label"></label>
+                    <input asp-for="GolsTime2" class="form-control">
+                    <span asp-validation-for="GolsTime2" class="text-danger"></span>
+                </div>
+            </div>
+            <button type="submit" class="btn btn-primary">Calcular</button>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

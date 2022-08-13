@@ -1,0 +1,66 @@
+unit UValidador;
+
+interface
+
+function isCPF(CPF : string) : boolean;
+
+implementation
+
+uses SysUtils;
+
+
+function isCPF(CPF : string): boolean;
+var d10, d11 : string;
+    s, i, r, p : integer;
+begin
+  if (length(CPF) <> 11) then
+  begin
+    result := false;
+    exit;
+  end;
+  try
+    s := 0;
+    p := 10;
+    for i := 1 to 9 do
+    begin
+      s := s + (StrToInt(CPF[i]) * p);
+      p := p - 1;
+    end;
+    r := s mod 11;
+    if (r < 2) then
+      d10 := '0'
+    else
+      d10 := IntToStr(11 - r);
+    // Valida o digito 10
+    if (CPF[10] <> d10) then
+    begin
+      result := false;
+      exit;
+    end;
+
+    s := 0;
+    p := 11;
+    for i := 1 to 10 do
+    begin
+      s := s + (StrToInt(CPF[i]) * p);
+      p := p - 1;
+    end;
+    r := s mod 11;
+    if (r < 2) then
+      d11 := '0'
+    else
+      d11 := IntToStr(11 - r);
+
+    if (CPF[11] = d11) then
+      result := true
+    else
+      result := false;
+
+  except
+    result := false;
+  end;
+
+end;
+
+
+end.

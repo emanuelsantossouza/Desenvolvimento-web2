@@ -1,0 +1,110 @@
+unit UFrmAnimal;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.ExtCtrls, Vcl.Buttons, Vcl.StdCtrls, Jpeg,
+  Vcl.MPlayer;
+
+type
+  TFrmAnimal = class(TForm)
+    Label1: TLabel;
+    SpeedButton1: TSpeedButton;
+    Image1: TImage;
+    MediaPlayer1: TMediaPlayer;
+    Label2: TLabel;
+    procedure SpeedButton1Click(Sender: TObject);
+  private
+    { Private declarations }
+    // bool Pergunta(Texto: string);
+    function Pergunta(Texto: PWideChar) : boolean;
+    procedure Resposta(Animal: string);
+  public
+    { Public declarations }
+  end;
+
+var
+  FrmAnimal: TFrmAnimal;
+
+implementation
+
+{$R *.dfm}
+
+
+function TFrmAnimal.Pergunta(Texto: PWideChar): boolean;
+begin
+  if (Application.MessageBox(Texto, 'Animal', MB_ICONQUESTION + MB_YESNO) = IDYes) then
+    result := True
+  else
+    result := False;
+end;
+
+procedure TFrmAnimal.Resposta(Animal: string);
+var arquivo : string;
+begin
+  FrmAnimal.Height:= 615;
+  FrmAnimal.Top := FrmAnimal.Top - 415;
+
+  // Exibe uma mensagem com o nome do Animal
+  Application.MessageBox(PWideChar(Animal), 'Achou', MB_ICONINFORMATION);
+
+  // Gera o caminho da imagem e carrega a imagem no Image1
+  arquivo := ExtractFileDir(ExtractFileDir(ExtractFileDir(ParamStr(0))))
+           + '\Imagens\' + Animal + '.jpg';
+  Image1.Picture.LoadFromFile(arquivo);
+
+  // GEra o caminha do audio e carrega no MediaPlayer1
+  arquivo := ExtractFileDir(ExtractFileDir(ExtractFileDir(ParamStr(0))))
+           + '\Sons\' + Animal + '.wav';
+  MediaPlayer1.FileName := arquivo;
+  MediaPlayer1.Open;
+  MediaPlayer1.Play;
+end;
+
+procedure TFrmAnimal.SpeedButton1Click(Sender: TObject);
+begin
+  if (Pergunta('É Mamifero?')) then
+    if (Pergunta('É Quadrúpede?')) then
+      if (Pergunta('É Carnívoro?')) then
+        Resposta('LEÃO')
+      else
+        if (Pergunta('É Herbívoro?')) then
+          Resposta('CAVALO')
+        else
+          Application.MessageBox('Animal não Encontrado!!!', 'Não Achou', MB_ICONWARNING)
+    else
+      if (Pergunta('É Bípede?')) then
+        if (Pergunta('É Onívoro?')) then
+          Resposta('HOMEM')
+        else
+          if (Pergunta('É Frutífero?')) then
+            Application.MessageBox('É o MACACO', 'Achou', MB_ICONINFORMATION)
+          else
+            Application.MessageBox('Animal não Encontrado!!!', 'Não Achou', MB_ICONWARNING)
+      else
+        if (Pergunta('É Voador?')) then
+          Application.MessageBox('É o MORCEGO', 'Achou', MB_ICONINFORMATION)
+        else
+          if (Pergunta('É Aquático?')) then
+            Application.MessageBox('É a BALEIA', 'Achou', MB_ICONINFORMATION)
+          else
+            Application.MessageBox('Animal não Encontrado!!!', 'Não Achou', MB_ICONWARNING)
+  else
+    if (Pergunta('É Ave?')) then
+
+    else
+      if (Pergunta('É Reptil?')) then
+
+      else
+        Application.MessageBox('Animal não Encontrado!!!', 'Não Achou', MB_ICONWARNING);
+
+
+end;
+
+end.
+
+
+
+
+

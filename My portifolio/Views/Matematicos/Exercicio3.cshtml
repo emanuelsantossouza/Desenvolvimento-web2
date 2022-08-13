@@ -1,0 +1,40 @@
+@model Cell
+@{
+    ViewData["Title"] = "Conversor Temperatura";    
+}
+
+<section class="bg-dark text-white text-center py-3">
+    <div class="container d-flex align-items-center flex-column">
+        <h1 class="text-uppercase mb-3">Conversão de Fahrenheit em Celsius</h1>
+    </div>
+</section>
+
+
+<div class="container mt-4">
+    <div class="row justify-content-md-center">
+        <form method="post" class="col-lg-8 col-md-12">
+            <p class="mb-4">
+                
+            </p>
+            <div class="row mb-4">
+                <div class="col">
+                    <label asp-for="TemperaturaC" class="form-label"></label>
+                    <input asp-for="TemperaturaC" class="form-control">
+                    <span asp-validation-for="TemperaturaC" class="text-danger"></span>
+                </div>
+            
+                <div class="col">
+                    <label asp-for="TemperaturaF" class="form-label"></label>
+                    <input asp-for="TemperaturaF" class="form-control" disabled>
+                </div>
+            </div>
+            <button type="submit" class="btn btn-primary">Calcular</button>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
+
+

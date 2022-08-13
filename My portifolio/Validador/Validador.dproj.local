@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/03/05 19:23:32.000.026,=C:\Users\jose.gallo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/03/05 19:30:22.000.483,C:\Users\jose.gallo\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\jose.gallo\Desktop\Validador\UFrmValidador.pas</Transaction>
+    <Transaction>2020/03/05 19:30:22.000.483,C:\Users\jose.gallo\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\jose.gallo\Desktop\Validador\UFrmValidador.dfm</Transaction>
+    <Transaction>2020/03/05 19:30:25.000.342,C:\Users\jose.gallo\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\jose.gallo\Desktop\Validador\Validador.dproj</Transaction>
+    <Transaction>2020/03/05 19:54:38.000.690,=C:\Users\jose.gallo\Desktop\Validador\Unit1.pas</Transaction>
+    <Transaction>2020/03/05 19:55:21.000.358,C:\Users\jose.gallo\Desktop\Validador\Unit1.pas=C:\Users\jose.gallo\Desktop\Validador\UValidador.pas</Transaction>
+  </Transactions>
+</BorlandProject>

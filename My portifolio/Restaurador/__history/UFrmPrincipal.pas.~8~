@@ -1,0 +1,77 @@
+unit UFrmPrincipal;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.Buttons, Vcl.StdCtrls, Vcl.ExtCtrls;
+
+type
+  TFrmPrincipal = class(TForm)
+    Label1: TLabel;
+    Label2: TLabel;
+    BtnCancelar: TSpeedButton;
+    BtnFechar: TSpeedButton;
+    LblContador: TLabel;
+    Timer1: TTimer;
+    procedure BtnCancelarMouseMove(Sender: TObject; Shift: TShiftState; X,
+      Y: Integer);
+    procedure BtnFecharClick(Sender: TObject);
+    procedure FormClose(Sender: TObject; var Action: TCloseAction);
+    procedure FormShow(Sender: TObject);
+    procedure Timer1Timer(Sender: TObject);
+  private
+    { Private declarations }
+    contador : integer;
+  public
+    { Public declarations }
+  end;
+
+var
+  FrmPrincipal: TFrmPrincipal;
+
+implementation
+
+{$R *.dfm}
+
+procedure TFrmPrincipal.BtnCancelarMouseMove(Sender: TObject;
+  Shift: TShiftState; X, Y: Integer);
+begin
+  BtnCancelar.Left := Random(FrmPrincipal.Width - BtnCancelar.Width);
+  BtnCancelar.Top := Random(FrmPrincipal.Height - BtnCancelar.Height);
+end;
+
+procedure TFrmPrincipal.BtnFecharClick(Sender: TObject);
+begin
+  Application.Terminate;
+end;
+
+procedure TFrmPrincipal.FormClose(Sender: TObject; var Action: TCloseAction);
+begin
+  if (Application.MessageBox(
+    'Cancelar a restauração do Sistema?',      // Texto
+    'Cancelar',                                // Titulo
+    MB_YESNO + MB_ICONQUESTION + MB_DEFBUTTON2
+  ) = IdYes) then
+    Application.MessageBox(
+       'Esta operação NÃO pode ser cancelada! Aguarde alguns instantes para a conclusão da Formatação!',
+       'Problemas ao encerrar', MB_ICONERROR
+    );
+  // ABORT - CANCELA O FECHAMENTO DO FORM
+  Abort;
+end;
+
+procedure TFrmPrincipal.FormShow(Sender: TObject);
+begin
+  contador := 1;
+  Timer1.Enabled := True;
+end;
+
+procedure TFrmPrincipal.Timer1Timer(Sender: TObject);
+begin
+  LblContador.Caption := IntToStr(contador)
+     + '% Concluído...';
+  contador := contador + 1;
+end;
+
+end.

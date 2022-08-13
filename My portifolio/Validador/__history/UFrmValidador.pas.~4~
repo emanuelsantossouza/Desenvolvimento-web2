@@ -1,0 +1,46 @@
+unit UFrmValidador;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.StdCtrls, Vcl.Buttons, Vcl.Mask,
+  Vcl.ExtCtrls;
+
+type
+  TForm1 = class(TForm)
+    radTipoDoc: TRadioGroup;
+    edtDoc: TMaskEdit;
+    btnVerificar: TBitBtn;
+    Label1: TLabel;
+    btnLimpar: TBitBtn;
+    procedure btnLimparClick(Sender: TObject);
+    procedure radTipoDocClick(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  Form1: TForm1;
+
+implementation
+
+{$R *.dfm}
+
+procedure TForm1.btnLimparClick(Sender: TObject);
+begin
+  edtDoc.Clear;
+  edtDoc.SetFocus;
+end;
+
+procedure TForm1.radTipoDocClick(Sender: TObject);
+begin
+  if (radTipoDoc.ItemIndex = 0) then
+    edtDoc.EditMask := '999.999.999-99;0;_'
+  else
+    edtDoc.EditMask := '99.999.999/9999-99;0;_';
+end;
+
+end.

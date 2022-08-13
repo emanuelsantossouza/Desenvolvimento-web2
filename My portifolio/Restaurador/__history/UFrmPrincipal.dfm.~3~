@@ -1,0 +1,31 @@
+object FrmPrincipal: TFrmPrincipal
+  Left = 0
+  Top = 0
+  BorderStyle = bsNone
+  Caption = 'FrmPrincipal'
+  ClientHeight = 554
+  ClientWidth = 833
+  Color = 13991979
+  Font.Charset = ANSI_CHARSET
+  Font.Color = clWhite
+  Font.Height = -19
+  Font.Name = 'Segoe UI'
+  Font.Style = []
+  OldCreateOrder = False
+  WindowState = wsMaximized
+  PixelsPerInch = 96
+  TextHeight = 25
+  object Label1: TLabel
+    Left = 104
+    Top = 80
+    Width = 50
+    Height = 128
+    Caption = ':('
+    Font.Charset = ANSI_CHARSET
+    Font.Color = clWhite
+    Font.Height = -96
+    Font.Name = 'Segoe UI'
+    Font.Style = []
+    ParentFont = False
+  end
+end

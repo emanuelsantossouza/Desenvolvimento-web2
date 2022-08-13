@@ -1,0 +1,57 @@
+object FrmAnimal: TFrmAnimal
+  Left = 0
+  Top = 0
+  BorderStyle = bsSingle
+  Caption = 'Adivinhe o Animal'
+  ClientHeight = 505
+  ClientWidth = 656
+  Color = clBlack
+  Font.Charset = ANSI_CHARSET
+  Font.Color = clWhite
+  Font.Height = -21
+  Font.Name = 'Tempus Sans ITC'
+  Font.Style = []
+  OldCreateOrder = False
+  Position = poDesktopCenter
+  PixelsPerInch = 96
+  TextHeight = 27
+  object Label1: TLabel
+    Left = 192
+    Top = 32
+    Width = 271
+    Height = 49
+    Caption = 'Qual '#233' o Animal?'
+    Font.Charset = ANSI_CHARSET
+    Font.Color = clWhite
+    Font.Height = -37
+    Font.Name = 'Tempus Sans ITC'
+    Font.Style = []
+    ParentFont = False
+  end
+  object SpeedButton1: TSpeedButton
+    Left = 256
+    Top = 104
+    Width = 153
+    Height = 33
+    Caption = 'Come'#231'ar'
+    Flat = True
+    OnClick = SpeedButton1Click
+  end
+  object Image1: TImage
+    Left = 40
+    Top = 160
+    Width = 577
+    Height = 313
+    Stretch = True
+  end
+  object MediaPlayer1: TMediaPlayer
+    Left = 56
+    Top = 184
+    Width = 253
+    Height = 30
+    DoubleBuffered = True
+    Visible = False
+    ParentDoubleBuffered = False
+    TabOrder = 0
+  end
+end

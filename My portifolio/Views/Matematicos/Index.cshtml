@@ -1,0 +1,48 @@
+@{
+    ViewData["Title"] = "Operadores Matemáticos";
+}
+
+<section class="bg-dark text-white text-center py-3">
+    <div class="container d-flex align-items-center flex-column">
+        <h1 class="text-uppercase mb-3">Operadores Matemáticos</h1>
+        <p class="font-weight-light"> + - * / </p>
+    </div>
+</section>
+
+<div class="container mt-5">
+    <div class="row">
+        <div class="col-lg-4 col-md-6 col-sm-12 mb-4">
+            <div class="card" style="padding:0;">
+                <img src="~/img/media.jpg" class="card-img-top" alt="Média Escolar" height="210">
+                <div class="card-body">
+                    <h5 class="card-title text-center">Escola</h5>
+                    <p class="card-text">Média aritméticas de 3 notas obtidas por um aluno em um bimestre.
+                    </p>
+                    <a asp-controller="Matematicos" asp-action="Exercicio1" class="btn btn-primary">Abrir</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-4 col-md-6 col-sm-12  mb-4">
+            <div class="card" style="padding:0">
+                <img src="@Url.Content("~/img/juros.jpg")" class="card-img-top" alt="Prestação com Juros" height="210">
+                <div class="card-body">
+                    <h5 class="card-title text-center">Prestaçã com Juros</h5>
+                    <p class="card-text">Calcular o valor de uma prestação acrescida de juros por atraso.
+                    </p>
+                    <a asp-controller="Matematicos" asp-action="Exercicio2" class="btn btn-primary">Abrir</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-4 col-md-6 col-sm-12  mb-4">
+            <div class="card" style="padding:0">
+                <img src="@Url.Content("~/img/expressao.jpg")" class="card-img-top" alt="Expressão Matemática" height="210">
+                <div class="card-body">
+                    <h5 class="card-title text-center">Expressão Matemática</h5>
+                    <p class="card-text">Dados 3 números inteiros positivos, calcule a expressão dada.
+                    </p>
+                    <a asp-controller="Matematicos" asp-action="Exercicio3" class="btn btn-primary">Abrir</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

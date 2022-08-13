@@ -1,0 +1,37 @@
+@{
+    ViewData["Title"] = "Estruturas Condicionais";
+}
+
+<section class="bg-dark text-white text-center py-3">
+    <div class="container d-flex align-items-center flex-column">
+        <h1 class="text-uppercase mb-3">Estruturas Condicionais</h1>
+        <p class="font-weight-light">Se e Escolha</p>
+    </div>
+</section>
+
+<div class="container mt-5">
+    <div class="row justify-content-md-center">
+        <div class="col-lg-4 col-md-6 col-sm-12">
+            <div class="card" style="padding:0;">
+                <img src="@Url.Content("~/img/partida.jpg")" class="card-img-top" alt="Condicional IF - Partida">
+                <div class="card-body">
+                    <h5 class="card-title text-center">Futebol</h5>
+                    <p class="card-text">Dados os pontos de uma partida de futebol, informe o Time vencedor.
+                    </p>
+                    <a asp-action="CondicionalIf" class="btn btn-primary">Abrir</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-4 col-md-6 col-sm-12">
+            <div class="card" style="padding:0">
+                <img src="@Url.Content("~/img/imc.jpg")" class="card-img-top" alt="Condicional IF">
+                <div class="card-body">
+                    <h5 class="card-title text-center">IMC</h5>
+                    <p class="card-text">Calcular o IMC de uma pessoa e informar-la sua situação de saúde (peso).
+                    </p>
+                    <a asp-action="CondicionalSwitch" class="btn btn-primary">Abrir</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
