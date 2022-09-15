@@ -1,0 +1,88 @@
+CREATE DATABASE IF NOT EXISTS Pokedex;
+USE Pokedex;
+
+CREATE TABLE IF NOT EXISTS Types (
+	Id	  INT UNSIGNED NOT NULL AUTO_INCREMENT PRIMARY KEY,
+    Name  VARCHAR(30) NOT NULL UNIQUE,
+    Color VARCHAR(7)
+);
+
+CREATE TABLE IF NOT EXISTS Abilities (
+	Id	 INT UNSIGNED NOT NULL AUTO_INCREMENT,
+    Name VARCHAR(30) NOT NULL UNIQUE,
+    PRIMARY KEY (Id)
+);
+
+CREATE TABLE IF NOT EXISTS Gender (
+	Id	 INT UNSIGNED NOT NULL AUTO_INCREMENT,
+    Name VARCHAR(30) NOT NULL UNIQUE,
+    PRIMARY KEY (Id)
+);
+
+CREATE TABLE IF NOT EXISTS Generation (
+	Id	  INT UNSIGNED NOT NULL AUTO_INCREMENT,
+    Name  VARCHAR(30) NOT NULL UNIQUE,
+    PRIMARY KEY (Id)
+);
+
+CREATE TABLE IF NOT EXISTS Pokemons (
+	Number 		 INT UNSIGNED NOT NULL,
+    EvolvedFrom  INT UNSIGNED,
+    GenerationId INT UNSIGNED NOT NULL,
+    GenderId     INT UNSIGNED NOT NULL,
+    Name 		 VARCHAR(30) NOT NULL UNIQUE,
+    Description  VARCHAR(1000),
+    Height 		 DECIMAL(5,2) NOT NULL DEFAULT 0, -- 999,99
+    Weight	     DECIMAL(7,3) NOT NULL DEFAULT 0, -- 9999,999
+    Image 		 VARCHAR(200),
+    AnimatedImg	 VARCHAR(200),
+    PRIMARY KEY (Number)
+);
+
+ALTER TABLE Pokemons ADD CONSTRAINT FK_Pokemons_Pokemons
+  FOREIGN KEY (EvolvedFrom) REFERENCES Pokemons(Number);
+  
+ALTER TABLE Pokemons ADD CONSTRAINT FK_Pokemons_Generation
+  FOREIGN KEY (GenerationId) REFERENCES Generation(Id);
+  
+ALTER TABLE Pokemons ADD CONSTRAINT FK_Pokemons_Gender
+  FOREIGN KEY (GenderId) REFERENCES Gender(Id);  
+
+
+CREATE TABLE IF NOT EXISTS PokemonTypes (
+	PokemonNumber	INT UNSIGNED NOT NULL,
+    TypeId			INT UNSIGNED NOT NULL,
+    PRIMARY KEY(PokemonNumber, TypeId)
+);
+
+ALTER TABLE PokemonTypes ADD CONSTRAINT FK_PokemonTypes_Pokemon
+  FOREIGN KEY(PokemonNumber) REFERENCES Pokemons(Number);
+
+ALTER TABLE PokemonTypes ADD CONSTRAINT FK_PokemonTypes_Type
+  FOREIGN KEY(TypeId) REFERENCES Types(Id);
+  
+
+CREATE TABLE IF NOT EXISTS Weaknesses (
+	PokemonNumber	INT UNSIGNED NOT NULL,
+    TypeId			INT UNSIGNED NOT NULL,
+    PRIMARY KEY(PokemonNumber, TypeId)
+);
+
+ALTER TABLE Weaknesses ADD CONSTRAINT FK_Weaknesses_Pokemon
+  FOREIGN KEY(PokemonNumber) REFERENCES Pokemons(Number);
+
+ALTER TABLE Weaknesses ADD CONSTRAINT FK_Weaknesses_Type
+  FOREIGN KEY(TypeId) REFERENCES Types(Id);
+
+
+CREATE TABLE IF NOT EXISTS PokemonAbilities (
+	PokemonNumber	INT UNSIGNED NOT NULL,
+    AbilityId			INT UNSIGNED NOT NULL,
+    PRIMARY KEY(PokemonNumber, AbilityId)
+);
+
+ALTER TABLE PokemonAbilities ADD CONSTRAINT FK_PokemonAbilities_Pokemon
+  FOREIGN KEY(PokemonNumber) REFERENCES Pokemons(Number);
+
+ALTER TABLE PokemonAbilities ADD CONSTRAINT FK_PokemonAbilities_Ability
+  FOREIGN KEY(AbilityId) REFERENCES Abilities(Id);
