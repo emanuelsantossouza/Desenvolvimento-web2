@@ -1,0 +1,62 @@
+@model Pokedex.ViewModels.Details
+@{
+    ViewData["Title"] = "Pokemon";
+}
+
+<section class="pt-5 container">
+    <div class="row">
+        <div class="col text-center">
+            @if (Model.Prior != null) {
+
+               <a asp-action="Details"  asp-route-number="@Model.Prior.Number" class="btn btn-lg btn-outline-dark">
+				@Model.Prior.Number.ToString("000") - @Model.Prior.Name
+			   </a>
+            }
+        </div>
+        <div class="col text-center">
+            <h1 class="fs-1">@Model.Current.Name <span class="fs-2 text-secondary">Nº @Model.Current.Number.ToString("000")</span></h1>
+        </div>
+        <div class="col text-center">
+            @if (Model.Next != null)
+            {
+               <a asp-action="Details"  asp-route-number="@Model.Next.Number" class="btn btn-lg btn-outline-dark">
+				@Model.Next.Number.ToString("000") - @Model.Next.Name
+			   </a>
+            }
+        </div>
+    </div>
+   
+    <div class="row mt-3">
+        <div class="col-lg-5 p-0">
+            <img class="img-fluid cursor-pointer" src="@Model.Current.Image" alt="@Model.Current.Name" data-bs-toggle="modal" data-bs-target="#modalGif">
+        </div>
+        <div class="col-lg-7 fs-5 mt-4">
+            <p class="mt-4 mb-3"><strong>Descrição:</strong> @Model.Current.Description</p>
+            <p class="mb-3"><strong>Região:</strong> @Model.Current.Generation.Name</p>
+            <p class="mb-3"><strong>Gênero:</strong> @Model.Current.Gender.Name</p>
+            <p class="mb-3"><strong>Altura:</strong> @Model.Current.Height mts</p>
+            <p class="mb-3"><strong>Peso:</strong> @Model.Current.Weight kgs</p>
+            <p class="fw-bold">Tipo</p>
+            <div class="btn-group">
+                @foreach (var ptype in Model.Current.Types)
+                {
+                    <a href="#" class="btn btn-lg my-2 text-white"
+                        style="background-color:@ptype.Type.Color">
+                        @ptype.Type.Name
+                    </a>
+                }
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Modal -->
+<div class="modal fade" id="modalGif" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content">
+      <div class="modal-body text-center">
+        <img class="img-fluid" src="@Model.Current.AnimatedImg" alt="@Model.Current.Name">
+      </div>
+    </div>
+  </div>
+</div>
