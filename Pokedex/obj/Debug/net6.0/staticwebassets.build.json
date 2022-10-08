@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "rNI6jtaxTipLQZehOoibphFB/U7Qsr/D/7pGzsJh6D4=",
+  "Hash": "yh4oMLAcREZLwFk6Nao59XH7Al2PszT32OdsUz4YFH0=",
   "Source": "Pokedex",
   "BasePath": "_content/Pokedex",
   "Mode": "Default",
@@ -10,51 +10,34 @@
     {
       "Name": "Pokedex\\wwwroot",
       "Source": "Pokedex",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Pokedex.styles.css",
-      "SourceId": "Pokedex",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
-      "BasePath": "_content/Pokedex",
-      "RelativePath": "Pokedex.styles.css",
-      "AssetKind": "All",
-      "AssetMode": "CurrentProject",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ApplicationBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\etec\\Desktop\\Pokedex\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Pokedex.styles.css"
-    },
-    {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Pokedex.bundle.scp.css",
-      "SourceId": "Pokedex",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
-      "BasePath": "_content/Pokedex",
-      "RelativePath": "Pokedex.bundle.scp.css",
-      "AssetKind": "All",
-      "AssetMode": "Reference",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ProjectBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\etec\\Desktop\\Pokedex\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Pokedex.bundle.scp.css"
-    },
-    {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\css\\site.css",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\css\\admin.css",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
+      "BasePath": "_content/Pokedex",
+      "RelativePath": "css/admin.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\admin.css"
+    },
+    {
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\css\\site.css",
+      "SourceId": "Pokedex",
+      "SourceType": "Discovered",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -68,10 +51,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\favicon.ico",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\favicon.ico",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -85,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\avatar.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\avatar.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/avatar.png",
       "AssetKind": "All",
@@ -102,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\img\\avatar.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\favicons\\android-chrome-192x192.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\favicons\\android-chrome-192x192.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/favicons/android-chrome-192x192.png",
       "AssetKind": "All",
@@ -119,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\img\\favicons\\android-chrome-192x192.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\favicons\\android-chrome-512x512.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\favicons\\android-chrome-512x512.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/favicons/android-chrome-512x512.png",
       "AssetKind": "All",
@@ -136,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\img\\favicons\\android-chrome-512x512.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\favicons\\apple-touch-icon.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\favicons\\apple-touch-icon.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/favicons/apple-touch-icon.png",
       "AssetKind": "All",
@@ -153,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\img\\favicons\\apple-touch-icon.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\favicons\\favicon-16x16.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\favicons\\favicon-16x16.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/favicons/favicon-16x16.png",
       "AssetKind": "All",
@@ -170,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\img\\favicons\\favicon-16x16.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\favicons\\favicon-32x32.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\favicons\\favicon-32x32.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/favicons/favicon-32x32.png",
       "AssetKind": "All",
@@ -187,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\img\\favicons\\favicon-32x32.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\favicons\\favicon.ico",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\favicons\\favicon.ico",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/favicons/favicon.ico",
       "AssetKind": "All",
@@ -204,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\img\\favicons\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\favicons\\site.webmanifest",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\favicons\\site.webmanifest",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/favicons/site.webmanifest",
       "AssetKind": "All",
@@ -221,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\img\\favicons\\site.webmanifest"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\001.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\001.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/001.png",
       "AssetKind": "All",
@@ -238,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\001.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\002.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\002.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/002.png",
       "AssetKind": "All",
@@ -255,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\002.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\003.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\003.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/003.png",
       "AssetKind": "All",
@@ -272,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\003.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\004.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\004.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/004.png",
       "AssetKind": "All",
@@ -289,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\004.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\005.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\005.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/005.png",
       "AssetKind": "All",
@@ -306,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\005.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\006.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\006.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/006.png",
       "AssetKind": "All",
@@ -323,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\006.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\007.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\007.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/007.png",
       "AssetKind": "All",
@@ -340,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\007.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\008.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\008.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/008.png",
       "AssetKind": "All",
@@ -357,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\008.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\009.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\009.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/009.png",
       "AssetKind": "All",
@@ -374,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\009.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\010.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\010.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/010.png",
       "AssetKind": "All",
@@ -391,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\010.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\011.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\011.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/011.png",
       "AssetKind": "All",
@@ -408,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\011.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\012.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\012.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/012.png",
       "AssetKind": "All",
@@ -425,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\012.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\013.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\013.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/013.png",
       "AssetKind": "All",
@@ -442,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\013.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\014.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\014.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/014.png",
       "AssetKind": "All",
@@ -459,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\014.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\015.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\015.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/015.png",
       "AssetKind": "All",
@@ -476,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\015.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\016.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\016.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/016.png",
       "AssetKind": "All",
@@ -493,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\016.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\017.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\017.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/017.png",
       "AssetKind": "All",
@@ -510,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\017.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\018.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\018.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/018.png",
       "AssetKind": "All",
@@ -527,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\018.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\019.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\019.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/019.png",
       "AssetKind": "All",
@@ -544,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\019.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\020.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\020.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/020.png",
       "AssetKind": "All",
@@ -561,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\020.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\021.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\021.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/021.png",
       "AssetKind": "All",
@@ -578,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\021.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\022.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\022.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/022.png",
       "AssetKind": "All",
@@ -595,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\022.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\023.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\023.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/023.png",
       "AssetKind": "All",
@@ -612,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\023.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\024.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\024.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/024.png",
       "AssetKind": "All",
@@ -629,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\024.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\025.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\025.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/025.png",
       "AssetKind": "All",
@@ -646,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\025.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\026.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\026.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/026.png",
       "AssetKind": "All",
@@ -663,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\026.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\027.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\027.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/027.png",
       "AssetKind": "All",
@@ -680,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\027.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\028.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\028.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/028.png",
       "AssetKind": "All",
@@ -697,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\028.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\029.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\029.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/029.png",
       "AssetKind": "All",
@@ -714,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\029.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\030.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\030.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/030.png",
       "AssetKind": "All",
@@ -731,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\030.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\031.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\031.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/031.png",
       "AssetKind": "All",
@@ -748,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\031.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\032.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\032.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/032.png",
       "AssetKind": "All",
@@ -765,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\032.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\033.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\033.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/033.png",
       "AssetKind": "All",
@@ -782,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\033.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\034.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\034.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/034.png",
       "AssetKind": "All",
@@ -799,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\034.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\035.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\035.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/035.png",
       "AssetKind": "All",
@@ -816,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\035.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\036.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\036.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/036.png",
       "AssetKind": "All",
@@ -833,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\036.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\037.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\037.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/037.png",
       "AssetKind": "All",
@@ -850,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\037.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\038.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\038.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/038.png",
       "AssetKind": "All",
@@ -867,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\038.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\039.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\039.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/039.png",
       "AssetKind": "All",
@@ -884,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\039.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\040.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\040.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/040.png",
       "AssetKind": "All",
@@ -901,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\040.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\041.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\041.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/041.png",
       "AssetKind": "All",
@@ -918,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\041.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\042.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\042.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/042.png",
       "AssetKind": "All",
@@ -935,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\042.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\043.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\043.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/043.png",
       "AssetKind": "All",
@@ -952,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\043.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\044.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\044.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/044.png",
       "AssetKind": "All",
@@ -969,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\044.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\045.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\045.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/045.png",
       "AssetKind": "All",
@@ -986,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\045.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\046.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\046.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/046.png",
       "AssetKind": "All",
@@ -1003,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\046.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\047.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\047.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/047.png",
       "AssetKind": "All",
@@ -1020,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\047.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\048.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\048.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/048.png",
       "AssetKind": "All",
@@ -1037,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\048.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\049.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\049.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/049.png",
       "AssetKind": "All",
@@ -1054,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\049.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\050.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\050.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/050.png",
       "AssetKind": "All",
@@ -1071,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\050.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\051.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\051.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/051.png",
       "AssetKind": "All",
@@ -1088,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\051.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\052.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\052.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/052.png",
       "AssetKind": "All",
@@ -1105,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\052.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\053.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\053.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/053.png",
       "AssetKind": "All",
@@ -1122,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\053.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\054.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\054.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/054.png",
       "AssetKind": "All",
@@ -1139,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\054.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\055.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\055.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/055.png",
       "AssetKind": "All",
@@ -1156,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\055.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\056.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\056.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/056.png",
       "AssetKind": "All",
@@ -1173,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\056.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\057.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\057.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/057.png",
       "AssetKind": "All",
@@ -1190,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\057.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\058.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\058.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/058.png",
       "AssetKind": "All",
@@ -1207,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\058.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\059.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\059.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/059.png",
       "AssetKind": "All",
@@ -1224,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\059.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\060.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\060.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/060.png",
       "AssetKind": "All",
@@ -1241,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\060.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\061.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\061.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/061.png",
       "AssetKind": "All",
@@ -1258,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\061.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\062.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\062.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/062.png",
       "AssetKind": "All",
@@ -1275,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\062.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\063.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\063.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/063.png",
       "AssetKind": "All",
@@ -1292,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\063.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\064.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\064.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/064.png",
       "AssetKind": "All",
@@ -1309,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\064.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\065.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\065.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/065.png",
       "AssetKind": "All",
@@ -1326,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\065.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\066.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\066.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/066.png",
       "AssetKind": "All",
@@ -1343,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\066.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\067.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\067.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/067.png",
       "AssetKind": "All",
@@ -1360,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\067.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\068.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\068.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/068.png",
       "AssetKind": "All",
@@ -1377,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\068.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\069.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\069.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/069.png",
       "AssetKind": "All",
@@ -1394,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\069.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\070.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\070.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/070.png",
       "AssetKind": "All",
@@ -1411,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\070.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\071.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\071.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/071.png",
       "AssetKind": "All",
@@ -1428,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\071.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\072.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\072.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/072.png",
       "AssetKind": "All",
@@ -1445,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\072.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\073.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\073.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/073.png",
       "AssetKind": "All",
@@ -1462,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\073.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\074.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\074.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/074.png",
       "AssetKind": "All",
@@ -1479,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\074.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\075.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\075.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/075.png",
       "AssetKind": "All",
@@ -1496,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\075.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\076.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\076.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/076.png",
       "AssetKind": "All",
@@ -1513,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\076.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\077.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\077.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/077.png",
       "AssetKind": "All",
@@ -1530,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\077.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\078.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\078.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/078.png",
       "AssetKind": "All",
@@ -1547,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\078.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\079.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\079.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/079.png",
       "AssetKind": "All",
@@ -1564,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\079.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\080.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\080.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/080.png",
       "AssetKind": "All",
@@ -1581,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\080.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\081.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\081.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/081.png",
       "AssetKind": "All",
@@ -1598,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\081.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\082.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\082.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/082.png",
       "AssetKind": "All",
@@ -1615,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\082.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\083.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\083.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/083.png",
       "AssetKind": "All",
@@ -1632,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\083.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\084.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\084.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/084.png",
       "AssetKind": "All",
@@ -1649,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\084.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\085.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\085.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/085.png",
       "AssetKind": "All",
@@ -1666,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\085.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\086.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\086.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/086.png",
       "AssetKind": "All",
@@ -1683,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\086.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\087.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\087.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/087.png",
       "AssetKind": "All",
@@ -1700,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\087.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\088.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\088.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/088.png",
       "AssetKind": "All",
@@ -1717,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\088.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\089.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\089.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/089.png",
       "AssetKind": "All",
@@ -1734,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\089.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\090.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\090.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/090.png",
       "AssetKind": "All",
@@ -1751,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\090.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\091.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\091.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/091.png",
       "AssetKind": "All",
@@ -1768,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\091.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\092.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\092.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/092.png",
       "AssetKind": "All",
@@ -1785,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\092.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\093.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\093.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/093.png",
       "AssetKind": "All",
@@ -1802,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\093.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\094.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\094.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/094.png",
       "AssetKind": "All",
@@ -1819,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\094.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\095.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\095.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/095.png",
       "AssetKind": "All",
@@ -1836,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\095.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\096.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\096.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/096.png",
       "AssetKind": "All",
@@ -1853,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\096.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\097.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\097.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/097.png",
       "AssetKind": "All",
@@ -1870,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\097.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\098.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\098.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/098.png",
       "AssetKind": "All",
@@ -1887,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\098.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\099.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\099.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/099.png",
       "AssetKind": "All",
@@ -1904,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\099.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\100.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\100.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/100.png",
       "AssetKind": "All",
@@ -1921,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\100.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\101.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\101.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/101.png",
       "AssetKind": "All",
@@ -1938,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\101.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\102.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\102.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/102.png",
       "AssetKind": "All",
@@ -1955,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\102.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\103.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\103.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/103.png",
       "AssetKind": "All",
@@ -1972,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\103.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\104.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\104.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/104.png",
       "AssetKind": "All",
@@ -1989,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\104.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\105.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\105.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/105.png",
       "AssetKind": "All",
@@ -2006,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\105.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\106.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\106.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/106.png",
       "AssetKind": "All",
@@ -2023,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\106.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\107.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\107.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/107.png",
       "AssetKind": "All",
@@ -2040,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\107.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\108.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\108.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/108.png",
       "AssetKind": "All",
@@ -2057,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\108.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\109.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\109.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/109.png",
       "AssetKind": "All",
@@ -2074,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\109.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\110.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\110.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/110.png",
       "AssetKind": "All",
@@ -2091,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\110.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\111.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\111.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/111.png",
       "AssetKind": "All",
@@ -2108,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\111.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\112.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\112.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/112.png",
       "AssetKind": "All",
@@ -2125,10 +2108,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\112.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\113.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\113.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/113.png",
       "AssetKind": "All",
@@ -2142,10 +2125,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\113.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\114.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\114.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/114.png",
       "AssetKind": "All",
@@ -2159,10 +2142,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\114.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\115.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\115.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/115.png",
       "AssetKind": "All",
@@ -2176,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\115.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\116.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\116.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/116.png",
       "AssetKind": "All",
@@ -2193,10 +2176,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\116.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\117.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\117.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/117.png",
       "AssetKind": "All",
@@ -2210,10 +2193,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\117.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\118.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\118.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/118.png",
       "AssetKind": "All",
@@ -2227,10 +2210,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\118.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\119.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\119.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/119.png",
       "AssetKind": "All",
@@ -2244,10 +2227,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\119.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\120.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\120.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/120.png",
       "AssetKind": "All",
@@ -2261,10 +2244,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\120.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\121.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\121.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/121.png",
       "AssetKind": "All",
@@ -2278,10 +2261,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\121.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\122.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\122.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/122.png",
       "AssetKind": "All",
@@ -2295,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\122.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\123.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\123.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/123.png",
       "AssetKind": "All",
@@ -2312,10 +2295,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\123.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\124.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\124.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/124.png",
       "AssetKind": "All",
@@ -2329,10 +2312,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\124.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\125.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\125.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/125.png",
       "AssetKind": "All",
@@ -2346,10 +2329,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\125.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\126.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\126.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/126.png",
       "AssetKind": "All",
@@ -2363,10 +2346,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\126.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\127.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\127.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/127.png",
       "AssetKind": "All",
@@ -2380,10 +2363,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\127.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\128.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\128.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/128.png",
       "AssetKind": "All",
@@ -2397,10 +2380,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\128.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\129.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\129.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/129.png",
       "AssetKind": "All",
@@ -2414,10 +2397,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\129.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\130.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\130.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/130.png",
       "AssetKind": "All",
@@ -2431,10 +2414,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\130.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\131.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\131.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/131.png",
       "AssetKind": "All",
@@ -2448,10 +2431,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\131.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\132.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\132.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/132.png",
       "AssetKind": "All",
@@ -2465,10 +2448,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\132.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\133.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\133.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/133.png",
       "AssetKind": "All",
@@ -2482,10 +2465,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\133.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\134.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\134.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/134.png",
       "AssetKind": "All",
@@ -2499,10 +2482,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\134.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\135.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\135.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/135.png",
       "AssetKind": "All",
@@ -2516,10 +2499,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\135.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\136.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\136.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/136.png",
       "AssetKind": "All",
@@ -2533,10 +2516,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\136.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\137.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\137.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/137.png",
       "AssetKind": "All",
@@ -2550,10 +2533,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\137.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\138.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\138.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/138.png",
       "AssetKind": "All",
@@ -2567,10 +2550,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\138.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\139.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\139.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/139.png",
       "AssetKind": "All",
@@ -2584,10 +2567,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\139.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\140.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\140.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/140.png",
       "AssetKind": "All",
@@ -2601,10 +2584,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\140.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\141.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\141.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/141.png",
       "AssetKind": "All",
@@ -2618,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\141.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\142.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\142.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/142.png",
       "AssetKind": "All",
@@ -2635,10 +2618,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\142.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\143.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\143.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/143.png",
       "AssetKind": "All",
@@ -2652,10 +2635,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\143.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\144.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\144.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/144.png",
       "AssetKind": "All",
@@ -2669,10 +2652,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\144.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\145.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\145.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/145.png",
       "AssetKind": "All",
@@ -2686,10 +2669,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\145.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\146.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\146.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/146.png",
       "AssetKind": "All",
@@ -2703,10 +2686,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\146.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\147.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\147.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/147.png",
       "AssetKind": "All",
@@ -2720,10 +2703,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\147.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\148.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\148.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/148.png",
       "AssetKind": "All",
@@ -2737,10 +2720,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\148.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\149.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\149.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/149.png",
       "AssetKind": "All",
@@ -2754,10 +2737,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\149.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\150.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\150.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/150.png",
       "AssetKind": "All",
@@ -2771,10 +2754,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\150.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\img\\pokemons\\151.png",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\img\\pokemons\\151.png",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "img/pokemons/151.png",
       "AssetKind": "All",
@@ -2788,10 +2771,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pokemons\\151.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\js\\site.js",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\js\\site.js",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -2805,10 +2788,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -2822,10 +2805,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -2839,10 +2822,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -2856,10 +2839,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -2873,10 +2856,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -2890,10 +2873,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -2907,10 +2890,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -2924,10 +2907,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -2941,10 +2924,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -2958,10 +2941,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -2975,10 +2958,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -2992,10 +2975,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -3009,10 +2992,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -3026,10 +3009,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -3043,10 +3026,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -3060,10 +3043,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -3077,10 +3060,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -3094,10 +3077,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -3111,10 +3094,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -3128,10 +3111,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -3145,10 +3128,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -3162,10 +3145,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -3179,10 +3162,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -3196,10 +3179,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -3213,10 +3196,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -3230,10 +3213,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -3247,10 +3230,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -3264,10 +3247,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -3281,10 +3264,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -3298,10 +3281,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -3315,10 +3298,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -3332,10 +3315,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -3349,10 +3332,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -3366,10 +3349,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -3383,10 +3366,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -3400,10 +3383,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -3417,10 +3400,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -3434,10 +3417,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -3451,10 +3434,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -3468,10 +3451,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -3485,10 +3468,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -3502,10 +3485,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -3519,10 +3502,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -3536,10 +3519,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -3553,10 +3536,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -3570,10 +3553,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -3587,10 +3570,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -3604,10 +3587,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -3621,10 +3604,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -3638,10 +3621,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -3655,10 +3638,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -3672,10 +3655,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -3689,10 +3672,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -3706,10 +3689,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -3723,10 +3706,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -3740,10 +3723,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -3757,10 +3740,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "Pokedex",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\Pokedex\\wwwroot\\",
+      "ContentRoot": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\wwwroot\\",
       "BasePath": "_content/Pokedex",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
