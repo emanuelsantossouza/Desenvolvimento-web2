@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\Pokedex.csproj": {}
+    "C:\\Users\\user\\OneDrive - Etec Centro Paula Souza\\Desktop\\a ser terminado\\Desenvolvimento-web2\\Pokedex\\Pokedex.csproj": {}
   },
   "projects": {
-    "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\Pokedex.csproj": {
+    "C:\\Users\\user\\OneDrive - Etec Centro Paula Souza\\Desktop\\a ser terminado\\Desenvolvimento-web2\\Pokedex\\Pokedex.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\Pokedex.csproj",
+        "projectUniqueName": "C:\\Users\\user\\OneDrive - Etec Centro Paula Souza\\Desktop\\a ser terminado\\Desenvolvimento-web2\\Pokedex\\Pokedex.csproj",
         "projectName": "Pokedex",
-        "projectPath": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\Pokedex.csproj",
-        "packagesPath": "C:\\Users\\jose.gallo\\.nuget\\packages\\",
-        "outputPath": "Q:\\Professores\\Gallo\\2022\\2º DS\\PW\\Turma B\\Pokedex\\obj\\",
+        "projectPath": "C:\\Users\\user\\OneDrive - Etec Centro Paula Souza\\Desktop\\a ser terminado\\Desenvolvimento-web2\\Pokedex\\Pokedex.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\OneDrive - Etec Centro Paula Souza\\Desktop\\a ser terminado\\Desenvolvimento-web2\\Pokedex\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\jose.gallo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -65,7 +63,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -77,7 +76,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
