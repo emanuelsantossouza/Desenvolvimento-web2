@@ -1,0 +1,23 @@
+dotnet new mvc -f net6.0 --auth Individual --use-local-db
+
+dotnet add package Pomelo.EntityFrameworkCore.MySql --version 6.0.2
+
+- EntityFrameworkCore - Banco de Dados
+- Identity - Identicação e Autorização de Usuário
+
+Para testar se tem a ferramenta de migração:
+    dotnet ef
+
+Para instalar a ferramenta de migração:
+    dotnet tool install --global dotnet-ef
+
+Para criar uma migração:
+1º - No terminal executar um: dotnet build
+2º - Usar comando para criar a migração:
+    dotnet ef migrations add NOME-DA-MIGRAÇÃO
+    dotnet ef migrations add Criar-Banco
+3º Usar o comando para atualizar o banco de dados
+    dotnet ef database update
+
+
+Nuget busca qualquer ferramenta
