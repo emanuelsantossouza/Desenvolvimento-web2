@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\etec\\Documents\\GitHub\\Desenvolvimento-web2\\My portifolio\\Exercicios.csproj": {}
+    "C:\\Users\\user\\OneDrive - Etec Centro Paula Souza\\Desktop\\a ser terminado\\Desenvolvimento-web2\\My portifolio\\Exercicios.csproj": {}
   },
   "projects": {
-    "C:\\Users\\etec\\Documents\\GitHub\\Desenvolvimento-web2\\My portifolio\\Exercicios.csproj": {
+    "C:\\Users\\user\\OneDrive - Etec Centro Paula Souza\\Desktop\\a ser terminado\\Desenvolvimento-web2\\My portifolio\\Exercicios.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\etec\\Documents\\GitHub\\Desenvolvimento-web2\\My portifolio\\Exercicios.csproj",
+        "projectUniqueName": "C:\\Users\\user\\OneDrive - Etec Centro Paula Souza\\Desktop\\a ser terminado\\Desenvolvimento-web2\\My portifolio\\Exercicios.csproj",
         "projectName": "Exercicios",
-        "projectPath": "C:\\Users\\etec\\Documents\\GitHub\\Desenvolvimento-web2\\My portifolio\\Exercicios.csproj",
-        "packagesPath": "C:\\Users\\etec\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\etec\\Documents\\GitHub\\Desenvolvimento-web2\\My portifolio\\obj\\",
+        "projectPath": "C:\\Users\\user\\OneDrive - Etec Centro Paula Souza\\Desktop\\a ser terminado\\Desenvolvimento-web2\\My portifolio\\Exercicios.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\OneDrive - Etec Centro Paula Souza\\Desktop\\a ser terminado\\Desenvolvimento-web2\\My portifolio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\etec\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -51,7 +49,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -63,7 +62,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
